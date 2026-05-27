@@ -1,3 +1,2 @@
-## What the hell is up
-my kindest dumbasses today im gonna give you a good project to work on
-
+## Bellevue College Robotics Lunabotics Competiton Ideas Board
+Hello guys please be nice to each other and don't torll
