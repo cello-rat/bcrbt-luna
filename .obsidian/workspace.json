@@ -11,10 +11,14 @@
             "id": "779850aea5c90941",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "System/Rules and Rubric.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rules and Rubric"
             }
           }
         ]
@@ -181,7 +185,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c99207f3d625bf05",
+  "active": "779850aea5c90941",
   "lastOpenFiles": [
     "System/Rules and Rubric.md",
     "System/Automation (Maybe)/not happening.md",
